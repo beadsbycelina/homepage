@@ -1,0 +1,16 @@
+body{
+    background-image: url(IMG_3851.PNG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+div{
+    border: 3px solid;
+    border-color: black;
+    height: 3750px;
+    width: 1000px;
+    background: linear-gradient(pink, purple);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
